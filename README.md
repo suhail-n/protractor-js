@@ -1,6 +1,6 @@
-# Protractor Notes
+# Protractor Readme
 
-- [Protractor Notes](#protractor-notes)
+- [Protractor Readme](#protractor-readme)
   - [Setup](#setup)
   - [Definitions - Jasmine](#definitions---jasmine)
   - [Links](#links)
